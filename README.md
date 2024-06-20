@@ -19,4 +19,4 @@
 <img src="슬라이드10.PNG" height = "400" width="700">
 <img src="슬라이드11.PNG" height = "400" width="700">
 
-<details>
+</details>
